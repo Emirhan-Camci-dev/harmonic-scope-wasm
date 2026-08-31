@@ -8,7 +8,7 @@ HarmonicScope-WASM follows an open-core dual-licensing model:
 * **Community Edition (AGPLv3):** Free and open source for hobbyists, academia, and non-commercial open-source applications. Includes standard FFT up to 25th harmonic.
 * **Enterprise Pro Tier (Proprietary B2B License):** Built for OEMs, hardware-in-the-loop (HIL) automation, and commercial test-bench developers. Supports three-phase THD evaluation, up to 50th harmonic limits, dynamic STATCOM/APF reactive power simulation, and works 100% offline using a cryptographic Ed25519 licensing model.
 
-**[Purchase Enterprise Pro via Polar.sh](https://polar.sh) ($990 – $2,400/year per seat/test-bench)**
+**[Purchase Enterprise Pro via Polar.sh](https://buy.polar.sh/polar_cl_o5aMJ1RP2l5qESYsrlBT1PhZCnt1q3Zntnz3y4GuBbA) **
 
 ---
 
